@@ -11,4 +11,6 @@
     <string name="state_of_progress">In-Progress or Completed or stopped</string>
     <string name="dummy">Dummy</string>
     <string name="enter_anything">Enter anything</string>
+    <string name="started">Started</string>
+    <string name="completed">Completed</string>
 </resources>
