@@ -1,8 +1,6 @@
 <resources>
     <string name="app_name">DAFFU</string>
-
     <!--      Download A File From URL -->
-
     <string name="enter_url_to_download_a_file">Enter http:// or https:// URL to download a file</string>
     <string name="start">Start</string>
     <string name="file_name">File name</string>
@@ -13,4 +11,6 @@
     <string name="enter_anything">Enter anything</string>
     <string name="started">Started</string>
     <string name="completed">Completed</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="connection_error">Connection error</string>
 </resources>

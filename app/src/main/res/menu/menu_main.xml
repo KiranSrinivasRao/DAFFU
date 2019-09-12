@@ -6,5 +6,5 @@
         android:id="@+id/download_file"
         android:contentDescription="@string/start"
         android:title="@string/start"
-        app:showAsAction="ifRoom" />
+        app:showAsAction="always" />
 </menu>
